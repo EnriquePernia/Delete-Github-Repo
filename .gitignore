@@ -1,0 +1,8 @@
+# Ignore environment variables
+.env
+
+# Ignore DS_STORE
+*DS_STORE
+
+# Ignore txt listing repos
+*.txt
