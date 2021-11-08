@@ -6,7 +6,7 @@ This scripts allow you to use GitHub API to delete multiple repositories at a ti
 
 ## How to use:
 
-- Create a .env file with:
+- Create a .env file on /scripts with:
   - USER=< Your GitHub username >
   - TOKEN=< Your GitHub token>
 - If you know the name of the repos you want to delete, just write them down to REPOS var in delete_repos.sh and execute the script.
